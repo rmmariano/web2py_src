@@ -34,7 +34,6 @@ applications/*/databases/*
 applications/*/sessions/*
 applications/*/errors/*
 applications/*/cache/*
-applications/*/uploads/*
 applications/*/static/temp
 applications/*/progress.log
 applications/examples/static/epydoc
@@ -44,16 +43,3 @@ HOWTO-web2py-devel
 *.sublime-project
 *.sublime-workspace
 .idea/*
-
-#./deposit
-#./benchmark
-#./build
-#./dist*
-#./dummy_tests
-#./optional_contrib
-#./ssl
-#./docs
-#./logs
-#./*.zip
-#site-packages/
-#applications/*/*.py[oc]
