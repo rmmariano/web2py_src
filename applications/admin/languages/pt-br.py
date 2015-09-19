@@ -156,6 +156,8 @@
 'Frames': 'Frames',
 'Functions with no doctests will result in [passed] tests.': 'Funções sem doctests resultarão em testes [aceitos].',
 'Generate': 'Gerar',
+'Git Pull': 'Git Pull',
+'Git Push': 'Git Push',
 'go!': 'vai!',
 'Group ID': 'ID do Grupo',
 'Hello World': 'Olá Mundo',
