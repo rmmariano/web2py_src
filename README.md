@@ -1,6 +1,6 @@
 ## web2py_src_rdg
 
-This is the web2py that I use to learn.
+This is the web2py that I use to study.
 
 ## 
 
